@@ -1,0 +1,10 @@
+.Dashboard {
+    font-size: 14px;
+    padding-left: 50px;
+}
+.inlineBlock {
+    display : inline-block
+}
+.PullRight {
+    float:right
+}

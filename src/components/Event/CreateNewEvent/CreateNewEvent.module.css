@@ -1,0 +1,12 @@
+.NewEvent {
+    font-size: 14px;
+}
+.InputContainer{
+    margin-top: 5px;
+}
+.InputContainer:first-child {
+    margin-top: 0;
+}
+.ButtonContainer {
+    margin-top: 15px;
+}
