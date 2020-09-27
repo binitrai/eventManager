@@ -21,6 +21,7 @@ function CreateNewEvent(props) {
 
     const clickHandeler = () => {
         props.create(eventName, description, venue, price, discount);
+        resetHandeler();
     }
 
     const resetHandeler = () => {
