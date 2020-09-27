@@ -20,6 +20,8 @@ function events({data, filterValue}) {
                 return Number(event.discount) !== 0;
             } else if (+filterValue ===  3) {
                 return Number(event.discount) === 0
+            } else {
+                return true;
             }
         })
     }
