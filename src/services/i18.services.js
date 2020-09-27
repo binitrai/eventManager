@@ -13,6 +13,7 @@ const i18 = {
     price : "Price",
     discount : "Discount",
     cancel : "Cancel",
+    create : "Create",
     reset : "Reset",
     filterTasks : "Filter Events: ",
     notFoundInSelectedFilter : "Nothing matched with selected filter. Please select different filter!"

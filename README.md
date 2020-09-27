@@ -1,4 +1,4 @@
-# todoNew
+# Event Manager
 ### Steps to run the project
 ```
 npm install
